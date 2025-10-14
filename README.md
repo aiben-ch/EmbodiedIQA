@@ -1,9 +1,9 @@
- <h1>Perceptual Quality Assessment for Embodied AI</h1>
+ <h1>Image Quality Assessment for Embodied AI</h1>
 
  _Evaluate the preference of Embodied AI in Real-World Distortion_
 
  <div>
-      <a href="https://aiben.ch" target="_blank">Evaluation Special Group, Shanghai AI Lab</a>
+      <a href="https://aiben.ch" target="_blank">Center of Evaluation, Shanghai AI Lab</a>
 </div>
  
 <div>
