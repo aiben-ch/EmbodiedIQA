@@ -17,7 +17,7 @@
  </div> 
  
  <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="figure/Overview.png">
+      <img style="width:100%" src="overview.png">
  </div>
 </div>
 
