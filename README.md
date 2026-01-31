@@ -7,13 +7,13 @@
   <a href="https://huggingface.co/datasets/lcysyzxdxc/CMC-Bench"><img src="https://img.shields.io/badge/Data-Release-green"></a>
  </div>
 
- <h1>Embodied Image Compression</h1>
+ <h1>Image Quality Assessment for Embodied AI</h1>
 
- _The first image compression benchmark for Embodeid AI_
+ _image quality assessment for Human->Machine->Robotic Visual Systems_
  
 
  <div>
-  Shanghai Jiao Tong University,  Shanghai AI Lab, Nanyang Technological University.
+  Center of AI Evaluation,  Shanghai AI Lab
  </div> 
  
  <div style="width: 100%; text-align: center; margin:auto;">
