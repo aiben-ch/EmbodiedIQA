@@ -4,7 +4,7 @@
   <a href="https://github.com/aiben-ch/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faiben-ch%2FEmbodiedComp&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
   <a href="https://github.com/aiben-ch/EmbodiedIQA"><img src="https://img.shields.io/github/stars/aiben-ch/EmbodiedIQA"/></a>
   <a href="https://arxiv.org/pdf/2505.16815"><img src="https://img.shields.io/badge/Arxiv-2505.16815-blue"/></a>
-  <a href="https://huggingface.co/datasets/lcysyzxdxc/CMC-Bench"><img src="https://img.shields.io/badge/Data-Release-green"></a>
+  <a href="https://huggingface.co/datasets/xiaojiahao/Embodied-IQA"><img src="https://img.shields.io/badge/Data-Release-green"></a>
  </div>
 
  <h1>Image Quality Assessment for Embodied AI</h1>
@@ -27,12 +27,12 @@ Considering this issue, **we first attempt to implement Image Quality Assessment
 
 <div align="center">
 
-🤗 [Datasets Download]() | 📚 [Paper](https://arxiv.org/abs/2505.16815) | 📈[Benchmark]()
+🤗 [Datasets Download](https://huggingface.co/datasets/xiaojiahao/Embodied-IQA) | 📚 [Paper](https://arxiv.org/abs/2505.16815) | 📈[Benchmark]()
 
 </div>
 
 ## Release
-- [2026/1/31] 🔥 Source quality annotations of EmbodiedIQA is released!   
+- [2026/1/31] 🔥 Source quality annotations of EmbodiedIQA are released!
 - [2026/1/26] 🔥 EmbodiedIQA is accepted by ICLR!
 - [To Do] [ ] Real-world data.
 
